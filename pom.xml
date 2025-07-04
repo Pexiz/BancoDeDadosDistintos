@@ -34,14 +34,14 @@
             <version>5.6.15.Final</version>
         </dependency>
 
-        <!-- Driver PostgreSQL (se estiver usando Postgre) -->
+        <!-- Driver PostgreSQL -->
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
             <version>42.7.7</version>
         </dependency>
 
-        <!-- Driver MySQL (caso esteja usando MySQL também) -->
+        <!-- Driver MySQL -->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
